@@ -1,0 +1,26 @@
+var structmod__global__variables_1_1type__receiver__quad =
+[
+    [ "cpu", "structmod__global__variables_1_1type__receiver__quad.html#a835753de70b7247007d46f0e23335a44", null ],
+    [ "dmin", "structmod__global__variables_1_1type__receiver__quad.html#aa3b4a0a588be5b7ea13df2dbffc928aa", null ],
+    [ "eta", "structmod__global__variables_1_1type__receiver__quad.html#a38879637f6b7ecafd30a9857f9169952", null ],
+    [ "gll", "structmod__global__variables_1_1type__receiver__quad.html#ab8122e7629a3a71de0182cc77a84275e", null ],
+    [ "iel", "structmod__global__variables_1_1type__receiver__quad.html#a85b5f94be72b1dc6e94f5661c5e54388", null ],
+    [ "lag", "structmod__global__variables_1_1type__receiver__quad.html#a8ccc463c3fab9ff223633c9162065b25", null ],
+    [ "lgll", "structmod__global__variables_1_1type__receiver__quad.html#a59f2a1fff1b697d1e3129bd86f35de52", null ],
+    [ "mgll", "structmod__global__variables_1_1type__receiver__quad.html#a2e671b2ec604a705a23c7a986a4ad612", null ],
+    [ "pga_x", "structmod__global__variables_1_1type__receiver__quad.html#a259db7010153dc2d9dd6cb7e03f7b8cd", null ],
+    [ "pga_y", "structmod__global__variables_1_1type__receiver__quad.html#a48c2b2fb40d45c64202f5ea0950ce476", null ],
+    [ "pga_z", "structmod__global__variables_1_1type__receiver__quad.html#ae6d698cbc52f908beb4c2282a3fe5263", null ],
+    [ "pgd_x", "structmod__global__variables_1_1type__receiver__quad.html#a314cef5e010abc834c72a7344955de9e", null ],
+    [ "pgd_y", "structmod__global__variables_1_1type__receiver__quad.html#a97ca9aa142b23059e89fa7901ac5e985", null ],
+    [ "pgd_z", "structmod__global__variables_1_1type__receiver__quad.html#a73ca4528a529c909fdd056bd89344b58", null ],
+    [ "pgv_x", "structmod__global__variables_1_1type__receiver__quad.html#a51694efaea9463e3ef5558ca3f93f329", null ],
+    [ "pgv_xyz", "structmod__global__variables_1_1type__receiver__quad.html#a76a09b46266f0e949bbd47edf021dac1", null ],
+    [ "pgv_y", "structmod__global__variables_1_1type__receiver__quad.html#ad516fce9dc618eb474cb8963163689a2", null ],
+    [ "pgv_z", "structmod__global__variables_1_1type__receiver__quad.html#a0ab51d5efc5747b79154b414fe64c93c", null ],
+    [ "rglo", "structmod__global__variables_1_1type__receiver__quad.html#a176849f77c08136a3014304196d57d52", null ],
+    [ "x", "structmod__global__variables_1_1type__receiver__quad.html#aefe2fa227d44285122e82cf4a5a7bb73", null ],
+    [ "xi", "structmod__global__variables_1_1type__receiver__quad.html#a455da242222ca98b3cebbc5c4450b25e", null ],
+    [ "y", "structmod__global__variables_1_1type__receiver__quad.html#a3c3a1f21a5cff563b11a2954a59f5356", null ],
+    [ "z", "structmod__global__variables_1_1type__receiver__quad.html#a5fbeacbefe7f12907bfe885ff199f7f1", null ]
+];

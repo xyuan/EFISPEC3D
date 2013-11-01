@@ -1,0 +1,40 @@
+reset
+
+create brick x 58000.0 y 58000.0 z 34000.0
+volume 1 move 0.0 0.0 -17000.0
+
+webcut volume 1 with zplane offset -1000.0
+
+#all surfaces "surf_all" --> Group 2
+group 'surf_all' add surface all
+
+#overlaping surfaces "surf_overlap" in Group 3
+find surface overlap volume all
+
+#free surfaces in group "surf_free" --> Group 4
+group 'surf_free' add surface 1
+
+#parax surfaces in group "surf_parax" --> Group 5
+group 'surf_parax' subtract group 4 from group 2
+group 'surf_parax' subtract group 3 from group 5
+
+imprint all
+merge all
+
+block 1 volume 1
+block 1 name "l01"
+block 2 volume 2
+block 2 name "l02"
+block 3 group surf_parax 
+block 3 name "prx"
+block 4 group surf_free  
+block 4 name "fsu"
+
+volume 2 size 2400.0
+mesh volume 2
+refine node in face in surface 7
+volume 1 size 800.0
+mesh volume 1
+
+draw volume all
+export abaqus "./t01.inp" block all dimension 3 overwrite  

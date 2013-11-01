@@ -1,0 +1,4 @@
+<map id="mod_init_mpibuffer::init_mpi_buffers" name="mod_init_mpibuffer::init_mpi_buffers">
+<area shape="rect" id="node3" href="$classmod__init__mpibuffer.html#adaecaad517fbe70bf975e555db27bb5a" title="This subroutine creates GLLs buffers received by cpu myrank from other cpus. Identical GLLs between c..." alt="" coords="188,5,345,51"/>
+<area shape="rect" id="node5" href="$classmod__init__mpibuffer.html#a92d3c7227ffe60e016e7eb769e513658" title="This subroutine removes duplicated GLLs between cpu myrank and its connected cpus. " alt="" coords="201,74,332,121"/>
+</map>

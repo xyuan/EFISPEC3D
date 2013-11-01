@@ -1,0 +1,25 @@
+reset
+
+create brick  x 19200.0 y 16000.0 z  +15000.0
+move volume 1 x  9600.0 y 8000.0  z   -7500.0
+
+webcut volume 1 with zplane offset -1000.0
+
+merge all
+imprint all
+
+block 1 volume all
+block 1 name "l01"
+
+volume 2 size 400
+mesh volume 2
+refine node in face in surface 7
+
+curve 19 interval 15
+volume 1 size 133  
+mesh volume 1
+
+compress ids all
+view reset
+draw volume all
+export abaqus "./t02.inp" block all dimension 3 overwrite

@@ -1,0 +1,28 @@
+var structmod__global__variables_1_1type__double__couple__source =
+[
+    [ "cpu", "structmod__global__variables_1_1type__double__couple__source.html#aa7c078246fe4855ca45bfb84dea30ba3", null ],
+    [ "dip", "structmod__global__variables_1_1type__double__couple__source.html#a720cb88de9168c5b3359731061022503", null ],
+    [ "dmin", "structmod__global__variables_1_1type__double__couple__source.html#a2752a3c714853ac4ba18fa503b9b6700", null ],
+    [ "et", "structmod__global__variables_1_1type__double__couple__source.html#a9154342e97ba22ab7cc7627310ef5da2", null ],
+    [ "icur", "structmod__global__variables_1_1type__double__couple__source.html#aa4db8fe240950db22a88a342cc7e071b", null ],
+    [ "iel", "structmod__global__variables_1_1type__double__couple__source.html#a197c199e5ac172e0b977f01bf283e353", null ],
+    [ "kgll", "structmod__global__variables_1_1type__double__couple__source.html#ae6c8985cd9e91f6569d5602aad9dac9c", null ],
+    [ "lgll", "structmod__global__variables_1_1type__double__couple__source.html#a267987b0c3b44512322ca33736929d56", null ],
+    [ "mgll", "structmod__global__variables_1_1type__double__couple__source.html#a4177272d9e0b1a1a590dd4f327b766bc", null ],
+    [ "mw", "structmod__global__variables_1_1type__double__couple__source.html#a0d2f8c0ab60b94a9003fba4d817c12fc", null ],
+    [ "mxx", "structmod__global__variables_1_1type__double__couple__source.html#a5cfe6987f695ba5ce5fc89c0ee9fa04b", null ],
+    [ "mxy", "structmod__global__variables_1_1type__double__couple__source.html#a886dfeb3d9af570a7caf6a13888337b8", null ],
+    [ "mxz", "structmod__global__variables_1_1type__double__couple__source.html#a6379a3bdecd6bc69dfab2482e80b4682", null ],
+    [ "myy", "structmod__global__variables_1_1type__double__couple__source.html#a37ccfa9948ba0da37faa40ae75b4d1de", null ],
+    [ "myz", "structmod__global__variables_1_1type__double__couple__source.html#a4ca2a2ab807fe42be02842b21e8035c5", null ],
+    [ "mzz", "structmod__global__variables_1_1type__double__couple__source.html#a0612a12e3c4ca11c9b7153085f3c758e", null ],
+    [ "rak", "structmod__global__variables_1_1type__double__couple__source.html#addbfeed6406eb5a63b6b96c86939865b", null ],
+    [ "rise_time", "structmod__global__variables_1_1type__double__couple__source.html#a9e5c47b601c3dd7cd1c22722a43b973f", null ],
+    [ "shift_time", "structmod__global__variables_1_1type__double__couple__source.html#a997df228b9301d80b1274724bf73978b", null ],
+    [ "str", "structmod__global__variables_1_1type__double__couple__source.html#afa576b82c2ee0bd14c063baa979555e5", null ],
+    [ "x", "structmod__global__variables_1_1type__double__couple__source.html#af1a81a552fe014170a98fdb435f2e3bc", null ],
+    [ "xi", "structmod__global__variables_1_1type__double__couple__source.html#a62d9a5b0e6a2923e12798b906eaf1a70", null ],
+    [ "y", "structmod__global__variables_1_1type__double__couple__source.html#a492cbd2fbb75c742eb9618ae399630c6", null ],
+    [ "z", "structmod__global__variables_1_1type__double__couple__source.html#a50a2bae24b824cb015629c48ca1bda52", null ],
+    [ "ze", "structmod__global__variables_1_1type__double__couple__source.html#ab36b4728415082d9acf269bece8632be", null ]
+];

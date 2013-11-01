@@ -1,0 +1,5 @@
+<map id="mod_snapshot::write_snapshot_vtk" name="mod_snapshot::write_snapshot_vtk">
+<area shape="rect" id="node3" href="$classmod__vtk__io.html#aa3dea48cb1c1aa08c1a6cefe3d80066e" title="The VTK_DAT_XML function opens or closes CellData/PointData structures. " alt="" coords="199,5,367,35"/>
+<area shape="rect" id="node5" href="$classmod__vtk__io.html#aa190d64d90aacf3037f75345cddb389a" title="The VTK_END_XML function finalizes opened files. " alt="" coords="197,59,368,88"/>
+<area shape="rect" id="node7" href="$classmod__vtk__io.html#a0964b40fef24019d179eff45ed7323de" title="The VTK_INI_XML function is used for initializing file. This function must be the first to be called..." alt="" coords="201,112,364,141"/>
+</map>
